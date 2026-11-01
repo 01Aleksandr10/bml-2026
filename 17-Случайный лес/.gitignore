@@ -1,0 +1,7 @@
+# Результаты работы скриптов (генерируются при запуске)
+src/*_output.txt
+src/*_output.png
+
+# Кэш Python
+__pycache__/
+*.pyc

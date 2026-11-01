@@ -1,0 +1,8 @@
+# Проверено на Python 3.12.14
+numpy==2.3.5
+scipy==1.18.1
+pandas==2.2.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+threadpoolctl==3.7.0
+ipykernel==7.4.0
